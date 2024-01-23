@@ -1,0 +1,188 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "Students": [
+    {
+      "id": 1,
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "courses": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "email": "mritunjay.vats@reqres.in",
+      "first_name": "Mritunjay",
+      "last_name": "Vats",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 2
+    },
+    {
+      "id": 9,
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+      "id": 10,
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+      "id": 11,
+      "email": "george.edwards@reqres.in",
+      "first_name": "George",
+      "last_name": "Edwards",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+      "id": 12,
+      "email": "rachel.howell@reqres.in",
+      "first_name": "Rachel",
+      "last_name": "Howell",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 14
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 15
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 16
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 17
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 18
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 19
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 20
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 21
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 22
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 23
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 24
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 25
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 26
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 27
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 28
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 29
+    },
+    {
+      "email": "urja.khattar@reqres.in",
+      "first_name": "Urja",
+      "last_name": "Khattar",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "id": 30
+    }
+  ]
+}
